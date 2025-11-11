@@ -2,3 +2,7 @@ Paises onde o verão é quente.
 
 - Brasil
 - Colombia
+- Guiana
+- Mexico
+- Guatemala
+
